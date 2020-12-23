@@ -1,0 +1,7 @@
+bs4
+python-telegram-bot
+requests
+pandas
+numpy
+random
+UserAgent
